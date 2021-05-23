@@ -14,7 +14,6 @@ I am a Ph.D. student in the [Graphics & Visualization Study (GRAVITY) research g
   Department of Computer Science and Engineering, The Ohio State University
   <br>
   [08/2020 - 12/2020] CSE 3521: Survey of Artificial Intelligence I: Basic Techniques
-
   <br>
   [08/2019 - 12/2019] CSE 2421: Systems I: Introduction to Low-Level Programming and
 Computer Organization
