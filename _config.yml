@@ -1,13 +1,13 @@
-title: Your Name
+title: Tianyu Xiong
 position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+affiliation: The Ohio State University
+email: xiong.336 (at) osu (dot) edu
 keywords: minimal academic
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
-linkedin: https://www.linkedin.com/
+# google_scholar: https://scholar.google.com/
+github_link: https://github.com/xtyinzz
+linkedin: https://www.linkedin.com/in/tianyu-xiong-b485bb154/
 avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
