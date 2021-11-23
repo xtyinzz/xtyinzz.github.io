@@ -7,6 +7,8 @@ layout: homepage
 I am a 1st year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received my B.S. in Computer Science and Engineering from Ohio State in 2021 (GPA: 3.98/4.00). My research interest is in data visualization.
 
 
+[Link](test.md)
+
 ## Experience
 
 - **Undergraduate Instructional Assistant**
