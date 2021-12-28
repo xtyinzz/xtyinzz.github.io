@@ -30,6 +30,6 @@ I have been a member of the student club [Chinese Folk Music Orchestra](https://
 
 ![CFMO 2018 Concert](/assets/img/cfmo_2018_concert.jpg)
 
-<div class='globeContainer'>
+<!-- <div class='globeContainer'>
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=3xW1OFo-Ovl9vGJVBazgnc3fWzVdl0jqLTIW8_X9Zzc"></script>
-</div>
+</div> -->
