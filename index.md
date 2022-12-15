@@ -11,7 +11,7 @@ TODO:
 
 ## About Me
 
-I am a 2nd year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received my B.S. in Computer Science and Engineering from Ohio State in 2021. My research interest is in the intersection of data visualization and machine learning.
+I am a 2nd year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received my B.S. in Computer Science and Engineering from OSU in 2021. My research interest is in the intersection of data visualization and machine learning.
 
 ## Experience
 
@@ -19,7 +19,11 @@ I am a 2nd year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud*
   <br>
   Department of Computer Science and Engineering, The Ohio State University
   <br>
-  [08/2022 - Present] CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases
+  [01/2023 - 05/2023] CSE 5542: Real-Time Rendering
+  <br>
+  [01/2023 - 05/2023] CSE 5544: Introduction to Data Visualization
+  <br>
+  [08/2022 - 12/2022] CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases
 
 - **Undergraduate Instructional Assistant**
   <br>
@@ -27,8 +31,7 @@ I am a 2nd year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud*
   <br>
   [08/2020 - 12/2020] CSE 3521: Survey of Artificial Intelligence I: Basic Techniques
   <br>
-  [08/2019 - 12/2019] CSE 2421: Systems I: Introduction to Low-Level Programming and
-Computer Organization
+  [08/2019 - 12/2019] CSE 2421: Systems I: Introduction to Low-Level Programming and Computer Organization
 
 ## Misc
 
