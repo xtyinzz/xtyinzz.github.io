@@ -19,9 +19,7 @@ I am a 2nd year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud*
   <br>
   Department of Computer Science and Engineering, The Ohio State University
   <br>
-  [01/2023 - 05/2023] CSE 5542: Real-Time Rendering
-  <br>
-  [01/2023 - 05/2023] CSE 5544: Introduction to Data Visualization
+  [01/2023 - 05/2023] CSE 5523: Machine Learning and Statistical Pattern Recognition
   <br>
   [08/2022 - 12/2022] CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases
 
