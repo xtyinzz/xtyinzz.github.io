@@ -11,7 +11,7 @@ TODO:
 
 ## About Me
 
-I am a 3rd year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received B.S. in Computer Science and Engineering from OSU in 2021. My research interest is in the intersection of data visualization and machine learning.
+I am a 4th year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received B.S. in Computer Science and Engineering from OSU in 2021. My research interest is in the intersection of data visualization and machine learning.
 
 ## Experience
 
