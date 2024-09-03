@@ -2,28 +2,51 @@
 layout: homepage
 ---
 
-<h1 id="about-me"></h1>
+<!-- 
+TODO:
+    1. Add a navbar
+    2. Add blogs
+    3. Link blags
+ -->
 
-<h2 style="margin: 60px 0px 10px;">Short Bio</h2>
+## About Me
 
-I am currently a postdoctoral fellow in the Department of Computer Science at [Johns Hopkins University](https://cs.jhu.edu). I am fortunate to work with [Prof. Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/). I received my Ph.D. in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), where I was fortunate to be advised by [Prof. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/) and [Prof. Qianru Sun](https://qianrusun.com/). As part of the [European Laboratory for Learning and Intelligent Systems (ELLIS) Ph.D. Program](https://ellis.eu/phd-postdoc), I was also co-supervised by [Prof. Christian Rupprecht](https://www.cs.ox.ac.uk/people/christian.rupprecht/) and [Prof. Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/) in the [Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at the [University of Oxford](https://www.ox.ac.uk/). From 2018 to 2019, I was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). Prior to this, I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
+I am a 4th year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received B.S. in Computer Science and Engineering from OSU in 2021. My research interest is in the intersection of data visualization and machine learning with a focus on learning neural representations for large-scale volumetric data.
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, **generative models**, **3D geometry models**, and **medical imaging**.
+## Experience
 
-<!--
-<strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for faculty positions in CS, CSE, ECE, IEOR, etc., related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong>
--->
+- **Graduate Research Associate, The Ohio State University**
+    <br>
+    [08/2023 - Present] Implicit neural representation for large-scale scientific data
 
-{% include_relative _includes/news.md %}
+- **Research Aide, Argonne National Laboratory, advised by Dr. Tom Peterka**
+    <br>
+    [06/2023 - 08/2023] Uncertainty quantification of continuous data representation for scientific visualization
+
+- **Graduate Teaching Associate, The Ohio State University**
+    <br>
+    [01/2023 - 05/2023] CSE 5523: Machine Learning and Statistical Pattern Recognition
+    <br>
+    [08/2022 - 12/2022] CSE 2111: Modeling and Problem Solving with Spreadsheets and Databases
+
+- **Distinguished University Fellowship, The Ohio State University**
+    <br>
+    [08/2021 - 07/2022]
+
+- **Undergraduate Instructional Assistant, The Ohio State University**
+    <br>
+    [08/2020 - 12/2020] CSE 3521: Survey of Artificial Intelligence I: Basic Techniques
+    <br>
+    [08/2019 - 12/2019] CSE 2421: Systems I: Introduction to Low-Level Programming and Computer Organization
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/preprints.md %}
+## Misc
 
-{% include_relative _includes/teaching.md %}
+I was involved in the student club [Chinese Folk Music Orchestra](https://activities.osu.edu/involvement/student_organizations/find_a_student_org/?i=dd4a238a-783f-4be7-b4f6-0efc7a127bbd&l=C&c=Columbus&page=2) at Ohio State as a Bamboo Flute player and the president in the 2022 academic year. CFMO actively performs traditional Chinese music ensembles around the Columbus area. Follow CFMO [Facebook](https://www.facebook.com/osucfmo) and [Instragram](https://www.instagram.com/osu_cfmo) for our life and activities.
 
-{% include_relative _includes/talks.md %}
+![CFMO 2018 Concert](/assets/img/cfmo_2018_concert.jpg)
 
-{% include_relative _includes/services.md %}
-
-{% include_relative _includes/contact.md %}
+<!-- <div class='globeContainer'>
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=3xW1OFo-Ovl9vGJVBazgnc3fWzVdl0jqLTIW8_X9Zzc"></script>
+</div> -->
