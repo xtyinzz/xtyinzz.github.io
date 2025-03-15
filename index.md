@@ -11,13 +11,13 @@ TODO:
 
 ## About Me
 
-I am a 4th year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received B.S. in Computer Science and Engineering from OSU in 2021. My research interest is in the intersection of data visualization and machine learning with a focus on learning neural representations for large-scale volumetric data.
+I am a 4th year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received B.S. in Computer Science and Engineering from OSU in 2021. My research spans data science,  visualization, and graphics for large data.
 
 ## Experience
 
 - **Graduate Research Associate, The Ohio State University**
     <br>
-    [08/2023 - Present] Implicit neural representation for large-scale scientific data
+    [08/2023 - Present] Surrogates for large-scale scientific data
 
 - **Research Aide, Argonne National Laboratory, advised by Dr. Tom Peterka**
     <br>
