@@ -11,7 +11,7 @@ TODO:
 
 ## About Me
 
-I am a 4th year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received B.S. in Computer Science and Engineering from OSU in 2021. My research spans data science,  visualization, and graphics for large data.
+I am a 5th year Ph.D. candidate in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received B.S. in Computer Science and Engineering from OSU in 2021. My Ph.D. research focuses on applied machine learning to large-scale data in scientific visualization. Here is [my recent CV](/assets/cv/2025_09_17.pdf).
 
 ## Experience
 
@@ -31,7 +31,7 @@ I am a 4th year Ph.D. student in the [**GRA**phics & **VI**sualization s**T**ud*
 
 - **Distinguished University Fellowship, The Ohio State University**
     <br>
-    [08/2021 - 07/2022]
+    [08/2021 - 07/2022; 08/2025 - 09/2026]
 
 - **Undergraduate Instructional Assistant, The Ohio State University**
     <br>
