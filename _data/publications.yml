@@ -1,14 +1,33 @@
 main:
 
+
+
+  - title: "Refine Now, Query Fast: A Decoupled Refinement Paradigm for Implicit Neural Fields"
+    authors: <strong>Tianyu Xiong</strong>, Skylar Wurster, Han-Wei Shen
+    conference_short: Under Review
+    image: /assets/teaser/drr.png
+    code: https://github.com/anon-user-8494/DRR-INR
+
+  - title: "InterDoc: Facilitate Iterative Information Seeking in Scholarly Documents via Non-linear Interaction and Adaptive Multimodal Summarization"
+    authors: Rui Qiu, <strong>Tianyu Xiong</strong>, Po-Yin Yen, Han-Wei Shen
+    conference_short: Under Review
+    image: /assets/teaser/interdoc.png
+
+  - title: High-Fidelity Scientific Simulation Surrogates via Adaptive Implicit Neural Representations
+    authors: Ziwei Li, Yuhan Duan, <strong>Tianyu Xiong</strong>, Yi-Tang Chen, Wei-Lun Chao, Han-Wei Shen
+    conference_short: Under Review
+    pdf: https://arxiv.org/abs/2506.06858
+    image: /assets/teaser/fainr.png
+
   - title: Regularized Multi-Decoder Ensemble for an Error-Aware Scene Representation Network
-    authors: <strong>Tianyu Xiong</strong>, Skylar W Wurster, Hanqi Guo, Tom Peterka, Han-Wei Shen
+    authors: <strong>Tianyu Xiong</strong>, Skylar Wurster, Hanqi Guo, Tom Peterka, Han-Wei Shen
     conference_short: VIS
     conference: IEEE International Conference on Visualisation <strong>(VIS)</strong>, 2024.
     pdf: https://arxiv.org/abs/2407.19082
     image: /assets/teaser/rmdsrn.png
 
   - title: Adaptively Placed Multi-Grid Scene Representation Networks for Large-Scale Data Visualization
-    authors: Skylar Wolfgang Wurster, <strong>Tianyu Xiong</strong>, Han-Wei Shen, Hanqi Guo, Tom Peterka
+    authors: Skylar Wurster, <strong>Tianyu Xiong</strong>, Han-Wei Shen, Hanqi Guo, Tom Peterka
     conference_short: VIS
     conference: IEEE International Conference on Visualisation <strong>(VIS)</strong>, 2023.
     pdf: https://arxiv.org/abs/2308.02494

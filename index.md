@@ -11,13 +11,15 @@ TODO:
 
 ## About Me
 
-I am a 5th year Ph.D. candidate in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received B.S. in Computer Science and Engineering from OSU in 2021. My Ph.D. research focuses on applied machine learning to large-scale data in scientific visualization. Here is [my recent CV](/assets/cv/2025_09_17.pdf).
+I'm a 5th year Ph.D. candidate in the [**GRA**phics & **VI**sualization s**T**ud**Y** (**GRAVITY**) research group](https://sites.google.com/view/gravity-research-group/home?authuser=0) at The Ohio State University, advised by Prof. Han-Wei Shen. I received B.S. in Computer Science and Engineering from OSU in 2021. My Ph.D. research focuses on machine learning for large-scale scientific data visualization.
+
+My interest is generally in applying machine learning for solving practical problems, including content generation and insight extraction from data in diverse modalities (e.g. texts, images, videos, 3D volumes). Here is [my recent CV](/assets/cv/cv.pdf).
 
 ## Experience
 
 - **Graduate Research Associate, The Ohio State University**
     <br>
-    [08/2023 - Present] Surrogates for large-scale scientific data
+    [08/2023 - Present] Deep-learning-based preditive modeling for large-scale scientific data
 
 - **Research Aide, Argonne National Laboratory, advised by Dr. Tom Peterka**
     <br>
