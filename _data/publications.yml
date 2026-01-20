@@ -8,10 +8,6 @@ main:
     image: /assets/teaser/drr.png
     code: https://github.com/anon-user-8494/DRR-INR
 
-  - title: "InterDoc: Facilitate Iterative Information Seeking in Scholarly Documents via Non-linear Interaction and Adaptive Multimodal Summarization"
-    authors: Rui Qiu, <strong>Tianyu Xiong</strong>, Po-Yin Yen, Han-Wei Shen
-    conference_short: Under Review
-    image: /assets/teaser/interdoc.png
 
   - title: High-Fidelity Scientific Simulation Surrogates via Adaptive Implicit Neural Representations
     authors: Ziwei Li, Yuhan Duan, <strong>Tianyu Xiong</strong>, Yi-Tang Chen, Wei-Lun Chao, Han-Wei Shen
