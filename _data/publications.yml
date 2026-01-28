@@ -1,12 +1,11 @@
 main:
 
-
-
   - title: "Refine Now, Query Fast: A Decoupled Refinement Paradigm for Implicit Neural Fields"
     authors: <strong>Tianyu Xiong</strong>, Skylar Wurster, Han-Wei Shen
-    conference_short: Under Review
-    image: /assets/teaser/drr.png
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     code: https://github.com/anon-user-8494/DRR-INR
+    image: /assets/teaser/drr.png
 
 
   - title: High-Fidelity Scientific Simulation Surrogates via Adaptive Implicit Neural Representations
@@ -18,20 +17,20 @@ main:
   - title: Regularized Multi-Decoder Ensemble for an Error-Aware Scene Representation Network
     authors: <strong>Tianyu Xiong</strong>, Skylar Wurster, Hanqi Guo, Tom Peterka, Han-Wei Shen
     conference_short: VIS
-    conference: IEEE International Conference on Visualisation <strong>(VIS)</strong>, 2024.
+    conference: IEEE International Conference on Visualisation <strong>(IEEE VIS)</strong>, 2024.
     pdf: https://arxiv.org/abs/2407.19082
     image: /assets/teaser/rmdsrn.png
 
   - title: Adaptively Placed Multi-Grid Scene Representation Networks for Large-Scale Data Visualization
     authors: Skylar Wurster, <strong>Tianyu Xiong</strong>, Han-Wei Shen, Hanqi Guo, Tom Peterka
     conference_short: VIS
-    conference: IEEE International Conference on Visualisation <strong>(VIS)</strong>, 2023.
+    conference: IEEE International Conference on Visualisation <strong>(IEEE VIS)</strong>, 2023.
     pdf: https://arxiv.org/abs/2308.02494
     image: /assets/teaser/amgsrn.png
 
   - title: Efficient Interpolation-based Pathline Tracing with B-spline Curves in Particle Dataset
     authors: Haoyu Li, <strong>Tianyu Xiong</strong>, Han-Wei Shen
     conference_short: VIS Short
-    conference: IEEE International Conference on Visualisation <strong>(VIS)</strong>, 2022.
+    conference: IEEE International Conference on Visualisation <strong>(IEEE VIS)</strong>, 2022.
     pdf: https://arxiv.org/abs/2207.07224
     image: /assets/teaser/v-short-1037.png
